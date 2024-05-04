@@ -1,0 +1,5 @@
+Getting Started
+Prerequisites
+Google Colabok (recommended for interactive experimentation)
+Installation
+Clone this repository to your local machine: git clone repository url Upload the downloaded project to Google Colab In Google Drive, create a folder called datasets. Inside datasets folder, create a folder called food-101 Run the notebook
